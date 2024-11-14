@@ -4,7 +4,7 @@ import { useRef } from "react";
 import { slideUp, opacity } from "./animation";
 import Rounded from "../../common/RoundedButton";
 import Image from "next/image";
-export default function index() {
+export default function Description() {
   const phrase =
     "I'm a full-stack web developer focused on creating seamless, user-centered digital experiences. Let’s collaborate to bring your ideas to life!";
   const description = useRef(null);
