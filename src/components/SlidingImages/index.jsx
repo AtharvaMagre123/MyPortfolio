@@ -97,7 +97,7 @@ const slider3 = [
   },
   {
     color: "#e1dad6",
-    src: "firebase.png",
+    src: "Firebase.png",
   },
   {
     color: "#e1dad6",
