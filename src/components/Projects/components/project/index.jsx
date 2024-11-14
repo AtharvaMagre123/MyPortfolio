@@ -3,7 +3,7 @@ import React from "react";
 import styles from "./style.module.scss";
 import Link from "next/link";
 
-export default function index({ index, title, manageModal, href }) {
+export default function Project({ index, title, manageModal, href }) {
   return (
     <Link
       href={href}
